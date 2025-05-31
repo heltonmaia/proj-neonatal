@@ -43,3 +43,6 @@ poetry.lock
 .cache/
 .mypy_cache/
 pytest_cache/
+
+# Configs
+config.yml

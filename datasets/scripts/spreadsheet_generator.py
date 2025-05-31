@@ -162,7 +162,7 @@ class SpreadsheetGenerator:
 
 def main():
     """Main function to run the spreadsheet generation process."""
-    TARGET_DIR = "./dataset_v1_low"
+    TARGET_DIR = "/media/heltonmaia/HD2/datasets/proj-neonatal/dataset_v1_low"
     OUTPUT_CSV = "dataset_info.csv"
     
     generator = SpreadsheetGenerator(TARGET_DIR, OUTPUT_CSV)
